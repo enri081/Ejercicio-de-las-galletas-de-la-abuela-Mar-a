@@ -11,6 +11,8 @@
 
 - "bh.clp": Base de hechos suponiendo que el indice cromatico es 6.
 
+### Salida del codigo:
+
 ```
 FuzzyCLIPS> (load "galletas/bc.clp")
 Defining deftemplate: galleta
@@ -29,3 +31,8 @@ FuzzyCLIPS> (maximum-defuzzify 4)
 FuzzyCLIPS> (moment-defuzzify 4)
 206.25
 ```
+
+### Gráfica de logica difusa de el ejercicio:
+
+<img src="logicadifusa_ej_galletas_maria.jpeg"> 
+"
