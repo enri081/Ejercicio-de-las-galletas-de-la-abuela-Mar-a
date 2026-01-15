@@ -32,7 +32,7 @@ FuzzyCLIPS> (moment-defuzzify 4)
 206.25
 ```
 
-### Gráfica de logica difusa de el ejercicio:
+### Fuzzy logic graph for the exercise:
 
 <img src="logicadifusa_ej_galletas_maria.jpeg"> 
 "
