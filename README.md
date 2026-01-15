@@ -1,17 +1,17 @@
-# Ejercicio de las galletas de la abuela María.
+# Grandma María’s Cookies Exercise
 
-## (Control difuso de un horno con un sistema experto implementado en CLIPS).
+## (Fuzzy control of an oven using an expert system implemented in CLIPS)
 
-### Alumnos
+### Students
 - Enrique Moreno Alcántara
 - Carlos Cerezo López
 
-### Archivos
-- "bc.clp": Base de conocimientos que contiene la logica difusa de la galleta, la del horno y las reglas aplicadas a este.
+### Files
+- "bc.clp": Knowledge base containing the cookie’s fuzzy logic, the oven’s fuzzy logic, and the rules applied to it.
 
-- "bh.clp": Base de hechos suponiendo que el indice cromatico es 6.
+- "bh.clp": Fact base assuming the color index is 6.
 
-### Salida del codigo:
+### Output of the code:
 
 ```
 FuzzyCLIPS> (load "galletas/bc.clp")
